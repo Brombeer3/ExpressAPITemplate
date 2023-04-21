@@ -21,6 +21,11 @@ Packages included are:
 
 ## Installation
 
-Use the git-clone command:
+Use the git-clone command: git clone https://github.com/Brombeer3/ExpressAPITemplate/
+
+After cloning, go in to the directory and execute these commands: 
+npm i 
+npm run dev 
+
 
 Happy coding!
